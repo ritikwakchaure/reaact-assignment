@@ -1,0 +1,4 @@
+{
+    "gitlens.hovers.annotations.over": "line",
+    "gitlens.advanced.blame.delayAfterEdit": 4999
+}
